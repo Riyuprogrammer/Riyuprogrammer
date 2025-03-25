@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Riyuprogrammer
+- 👋 Hi, I’m @Riyu
 - 👀 I’m interested in ...python, roblox etc.
 - 🌱 I’m currently learning ... python etc.
 - 💞️ I’m looking to collaborate on ... well nothing for now
-- 📫 How to reach me ...
+- 📫 How to reach me ... Discord(riyu08826)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
